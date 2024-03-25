@@ -15,6 +15,8 @@ python image_border_divider.py <nombre_de_archivo> [numero_de_partes] [color_del
 ### Argumentos
 
 `<nombre_de_archivo>`: Nombre del archivo de imagen.
+
 `numero_de_partes`: Número de partes en las que dividir la imagen (opcional, valor predeterminado: 3).
+
 `color_del_borde`: Color del borde (opcional, valor predeterminado: 'red').
 
